@@ -25,5 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //2 登录做好了
+
+        //3 做好注册功能
     }
 }
